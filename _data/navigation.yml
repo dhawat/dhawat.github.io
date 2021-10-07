@@ -4,7 +4,7 @@ main:
    # url: /publications/
   - title: "cv"
     #url:"/cv/"
-    url: "/assets/pdfs/CV.pdf"
+    url: "/assets/pdfs/cv.pdf"
     #url: "/Users/dhawat/github/dhawat.github.io/_pages/cv.md"
     #url: https://github.com/CRIStAL-Sigma/cristal-sigma.github.io/blob/master/README.md
   - title: "Teaching"
