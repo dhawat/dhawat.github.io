@@ -8,7 +8,7 @@ title: "Teaching"
 
 ## Course 1
 
-This is what I do
+This
 
 ## Course 2
 
