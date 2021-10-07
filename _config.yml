@@ -98,10 +98,10 @@ analytics:
 # _includes/author-profile-custom-links.html
 author:
   name: "Diala Hawat"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "My short bio<br>Second line<br>"
+  avatar: "/assets/images/bio.jpeg"
+  bio: "PhD student."
   location: "Lille, France"
-  email: "my.name@email.com"
+  email: "dialahawat7@gmail.com"
   github: "dhawat"
   webpage: "https://dhawat.github.io"
   # Academic profiles
@@ -123,7 +123,7 @@ author:
     conversation:
     coursera:
     crossref:
-    cv:
+    cv: "/Users/dhawat/github/dhawat.github.io/_site/assets/pdfs/cv.pdf"
     datacite:
     dataverse:
     dblp:

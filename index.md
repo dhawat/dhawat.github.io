@@ -4,17 +4,17 @@ author_profile: true
 classes: wide
 ---
 
-I am currently a XXX at [CRIStAL](https://www.cristal.univ-lille.fr/) in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille.
+I am currently a PhD student at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, and at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris.\
+I'm working on the subject: "stochastic methods for numerical integrations", under the supervision of Rémi BARDENET and  Raphael LACHIEZE-REY.
 
-Here's what I do...
-## Research interests
+<div align="middle" style="margin-top: 500px">
 
-Few sentences and/or keywords.
+  <a href="https://www.cristal.univ-lille.fr/en"><img class='logo' alt="logo_cristal" src="assets/images/logo_cristal.png" align="bottom" style="width:170px;height:65px;"></a>
 
-<div align="middle" style="margin-top: 50px">
-  <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
+  <a href="https://www.univ-lille.fr/home/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_ulille2.png" align="bottom" style="width:170px;height:100px;"></a>
 
-  <a href="https://www.cristal.univ-lille.fr/en"><img class='logo' alt="logo_cristal" src="assets/images/logo_cristal.png" align="bottom" style="width:260px;height:90px;"></a>
+  <a href="https://map5.mi.parisdescartes.fr/"> <img class='logo' alt="logo_alpha3" src="assets/images/logo_alpha3.png" align="bottom" style="width:170px;height:80px;"></a>
 
-  <a href="https://www.univ-lille.fr/home/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_ulille.png" align="bottom" style="width:270px;height:90px;"></a>
+   <a href="https://u-paris.fr/en/"> <img class='logo' alt="logo_aparis" src="assets/images/logo_cnrs.png" align="bottom" style="width:170px;height:100px;"></a>
+
 </div>
