@@ -11,7 +11,7 @@ I'm working on the subject: "stochastic methods for numerical integrations", und
 
   <a href="https://www.cristal.univ-lille.fr/en"><img class='logo' alt="logo_cristal" src="assets/images/logo_cristal.png" align="bottom" style="width:170px;height:65px;"></a>
 
-  <a href="https://www.univ-lille.fr/home/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_ulille2.png" align="bottom" style="width:170px;height:100px;"></a>
+  <a href="https://www.univ-lille.fr/home/"> <img class='logo' alt="logo_ulille2" src="assets/images/logo_ulille2.png" align="bottom" style="width:170px;height:100px;"></a>
 
   <a href="https://map5.mi.parisdescartes.fr/"> <img class='logo' alt="logo_alpha3" src="assets/images/logo_alpha3.png" align="bottom" style="width:170px;height:80px;"></a>
 
