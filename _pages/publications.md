@@ -10,7 +10,7 @@ toc_sticky: true
 ---
 
 <!-- Go to _config.yml file and fill the corresponding fields author.academic_profiles.xxxx-->
-{% if site.author.academic_profiles.google-scholar %}
+<!-- {% if site.author.academic_profiles.google-scholar %}
   <a href="{{ site.author.academic_profiles.google-scholar }}">
     <i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar
   </a>
@@ -29,11 +29,11 @@ toc_sticky: true
   <a href="{{ site.author.academic_profiles.arxiv }}">
     <i class="ai ai-arxiv" aria-hidden="true"></i>Arxiv
   </a>
-{% endif %}
+{% endif %} -->
 
 <!-- See also https://github.com/inukshuk/jekyll-scholar to customize your references -->
 
-This is a mock example: the references are not correct!
+
 
 <!-- Preprints -->
 {% capture counter_preprints %}{% bibliography_count --query @unpublished %}{% endcapture %}
