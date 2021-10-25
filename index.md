@@ -10,7 +10,17 @@ I'm also [winner](https://challenge-maths.sciencesconf.org/resource/page/id/1) o
 I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm) during 2019/2020 for my master 2
 "Mathématiques et Applications" of the University Paris.
 
-<div align="middle" style="margin-top: 500px">
+# Python Package `structure_factor`
+
+In condensed matter physics, it has been observed for some particle systems that, the variance of the number of points in a large window is lower than expected, a phenomenon called hyperuniformity.
+Hyperuniform (HU) point processes could form a new family of Monte Carlo quadratures.
+By definition, HU point processes are more efficient than rejection sampling at estimating the volume of a set. There are many candidate HU processes in the physics literature, but rigorously proving that a point process is HU is usually difficult. It is thus desirable to have standardised numerical tests of hyperunifomity. We survey existing estimators of the structure factor and gather them all in the Python toolbox `structure_factor`.
+
+<div align="middle" style="margin-top: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:770px;height:200px;">
+</div>
+
+<div align="middle" style="margin-top: 50px">
 
   <a href="https://www.cristal.univ-lille.fr/en"><img class='logo' alt="logo_cristal" src="assets/images/logo_cristal.png" align="bottom" style="width:170px;height:65px;"></a>
 
