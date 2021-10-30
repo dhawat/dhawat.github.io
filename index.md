@@ -3,6 +3,7 @@ layout: home
 author_profile: true
 classes: wide
 ---
+<center> <h1>About </h1> </center>
 
 I am currently a PhD student at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, and at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris.\
 I'm working on the subject: "stochastic methods for numerical integrations", under the supervision of Rémi BARDENET and  Raphael LACHIEZE-REY.\
