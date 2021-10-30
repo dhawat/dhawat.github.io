@@ -2,10 +2,12 @@
 main:
   #- title: "Publications"
    # url: /publications/
-  - title: "cv"
+  - title: "Code"
+    url: "/code/"
+  - title: "Teaching"
+    url: "/teaching/"
+  - title: "CV"
     #url:"/cv/"
     url: "/assets/pdfs/cv.pdf"
     #url: "/Users/dhawat/github/dhawat.github.io/_pages/cv.md"
     #url: https://github.com/CRIStAL-Sigma/cristal-sigma.github.io/blob/master/README.md
-  - title: "Teaching"
-    url: "/teaching/"

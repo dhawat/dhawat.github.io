@@ -11,15 +11,17 @@ I'm also [winner](https://challenge-maths.sciencesconf.org/resource/page/id/1) o
 I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm) during 2019/2020 for my master 2
 "Mathématiques et Applications" of the University Paris.
 
-<center> <h1>Hyperuniformity </h1> </center>
+<center> <h1>News </h1> </center>
 
-# Python Package [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)
+* # Hyperunifomity
 
-In condensed matter physics, it has been observed for some particle systems that, the variance of the number of points in a large window is lower than expected, a phenomenon called hyperuniformity.
-There are many candidate hyperunifrom point processes (HU) in the physics literature, but rigorously proving that a point process is HU is usually difficult. It is thus desirable to have standardized numerical tests of hyperunifomity. Common practice in statistical physics is to estimate a spectral measure called the structure factor, the behavior of which around zero is a sign of hyperuniformity.
-We survey existing estimators of the structure factor and gather them all in the Python toolbox [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor).
-Moreover, [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) contains a test for testing the effective hyperunifomity of a given point process and the possible class of hyperuniformity.
-The documentation of the Package is published via the GitHub workflow file ([here](https://for-a-few-dpps-more.github.io/structure-factor/)). Furthermore, a [tutorial notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb) containing a detailed example of the methods of [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) applied on a realization from the Ginibre ensemble is [available](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb).
+    1- **Python Package** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor):
+
+    In condensed matter physics, it has been observed for some particle systems that, the variance of the number of points in a large window is lower than expected, a phenomenon called hyperuniformity.
+    There are many candidate hyperunifrom point processes (HU) in the physics literature, but rigorously proving that a point process is HU is usually difficult. It is thus desirable to have standardized numerical tests of hyperunifomity. Common practice in statistical physics is to estimate a spectral measure called the structure factor, the behavior of which around zero is a sign of hyperuniformity.
+    We survey existing estimators of the structure factor and gather them all in the Python toolbox [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor).
+    Moreover, [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) contains a test for testing the effective hyperunifomity of a given point process and the possible class of hyperuniformity.
+    The documentation of the Package is published via the GitHub workflow file ([here](https://for-a-few-dpps-more.github.io/structure-factor/)). Furthermore, a [tutorial notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb) containing a detailed example of the methods of [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) applied on a realization from the Ginibre ensemble is [available](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb).
 
 <div align="middle" style="margin-top: 50px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:770px;height:200px;">
