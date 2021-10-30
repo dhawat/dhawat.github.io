@@ -13,7 +13,7 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
 <center> <h1>Hyperuniformity </h1> </center>
 
-## Python Package [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)
+# Python Package [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)
 
 In condensed matter physics, it has been observed for some particle systems that, the variance of the number of points in a large window is lower than expected, a phenomenon called hyperuniformity.
 There are many candidate hyperunifrom point processes (HU) in the physics literature, but rigorously proving that a point process is HU is usually difficult. It is thus desirable to have standardized numerical tests of hyperunifomity. Common practice in statistical physics is to estimate a spectral measure called the structure factor, the behavior of which around zero is a sign of hyperuniformity.
