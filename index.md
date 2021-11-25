@@ -21,12 +21,23 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
     [![codecov](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor/branch/main/graph/badge.svg?token=FUDADJLO2W)](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor)
     [![docs-build](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/docs.yml/badge.svg)](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/docs.yml)
     [![docs-page](https://img.shields.io/badge/docs-latest-blue)](https://for-a-few-dpps-more.github.io/structure-factor/)
+    [![PyPi version](https://badgen.net/pypi/v/structure-factor/)](https://pypi.org/project/structure-factor/)
     [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-    In condensed matter physics, it has been observed for some particle systems that, the variance of the number of points in a large window is lower than expected, a phenomenon called hyperuniformity.
-    There are many candidate hyperunifrom point processes (HU) in the physics literature, but rigorously proving that a point process is HU is usually difficult. It is thus desirable to have standardized numerical tests of hyperunifomity. Common practice in statistical physics is to estimate a spectral measure called the structure factor, the behavior of which around zero is a sign of hyperuniformity.
+   Hyperuniformity is the study of stationary point processes with a sub-Poisson variance of the number of points in a large window. For the homogeneous Poisson point process, the variance of the number of points that fall in a large window is of the order of the window volume. In contrast, for hyperuniform (HU) point processes, the corresponding variance is much lower than the volume of that window, with a ratio going to zero.
+
+    In the context of amorphous structures, hyperuniformity
+    implies a hidden form of order, in which the system remains
+    macroscopically uniform, despite not being crystalline. The
+    concept of hyperuniformity sheds light on a variety of seemingly
+    unrelated fields, including density fluctuations in the early universe, biological tissue, statistical physics, colloidal
+    or granular packings, micro fluids, driven nonequilibrium
+    systems...
+
+    There are many candidate HU processes in the physics literature, but rigorously proving that a point process is HU is usually difficult. It is thus desirable to have standardized numerical tests of hyperuniformity. A common practice in statistical physics is to estimate a spectral measure called the structure factor, the behavior of which around zero is a sign of hyperuniformity.
+
     We survey existing estimators of the structure factor and gather them all in the Python toolbox [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor).
-    Moreover, [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) contains a test for testing the effective hyperunifomity of a given point process and the possible class of hyperuniformity.
+    Moreover, [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) contains a method for testing the effective hyperunifomity of a given point process and the possible class of hyperuniformity.
     The documentation of the Package is published via the GitHub workflow file ([here](https://for-a-few-dpps-more.github.io/structure-factor/)). Furthermore, a [tutorial notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb) containing a detailed example of the methods of [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) applied on a realization from the Ginibre ensemble is [available](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb).
 
 <div align="middle" style="margin-top: 50px">
