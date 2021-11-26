@@ -21,5 +21,5 @@ title: "Code"
   Approximate the structure factor of a stationary point process, test its effective hyperuniformity and identify its class of hyperuniformity.
 
   - Open source available on [Github](https://github.com/For-a-few-DPPs-more/structure-factor).
-  - Documentation available ([here](https://for-a-few-dpps-more.github.io/structure-factor/))
-  - Jupyter Notebook tutorial available ([here](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb))
+  - ([Documentation](https://for-a-few-dpps-more.github.io/structure-factor/))
+  - ([Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb))
