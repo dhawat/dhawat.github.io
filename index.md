@@ -6,9 +6,9 @@ classes: wide
 <center> <h1>About </h1> </center>
 
 I am currently a PhD student at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, and at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris.\
-I'm working on the subject: "stochastic methods for numerical integrations", under the supervision of Rémi BARDENET and  Raphael LACHIEZE-REY.\
+I'm working on the subject: "stochastic methods for numerical integrations", under the supervision of [Rémi BARDENET](http://rbardenet.github.io/) and  [Raphael LACHIEZE-REY](https://helios2.mi.parisdescartes.fr/~rlachiez/).\
 I'm also [winner](https://briques2math.home.blog/2021/10/26/diala-mariem-et-mehdi-evaluation-automatique-de-la-qualite-de-donnees/) of the [challenge mathématiques et entreprise](https://challenge-maths.sciencesconf.org/), organized by [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html). We worked for the company [Foyer](https://www.foyer.lu/en/homepage) our aim was to improve data quality ([interview](https://youtu.be/3IV06PqZ85s?t=403)).\
-I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm) during 2019/2020 for my master 2
+I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) during 2019/2020 for my master 2
 "Mathématiques et Applications" of the University Paris.
 
 <center> <h1>News </h1> </center>
