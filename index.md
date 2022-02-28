@@ -13,6 +13,10 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
 <center> <h1>News </h1> </center>
 
+* # Paper draft
+
+    On estimating the structure factor of a point process, with applications to hyperuniformity \ref{/Users/dhawat/github/dhawat.github.io/_site/assets/pdfs/article_JCGS_style.pdf}
+
 * # Hyperunifomity
 
     1- **Python Package** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor):

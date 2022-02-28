@@ -8,3 +8,6 @@ toc: true
 toc_label: "Publications"
 toc_sticky: true
 ---
+(Draft) : On estimating the structure factor of
+a point process, with applications to
+hyperuniformity
