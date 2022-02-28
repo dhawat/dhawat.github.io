@@ -15,7 +15,7 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
 * # Paper draft
 
-    On estimating the structure factor of a point process, with applications to hyperuniformity \ref{/Users/dhawat/github/dhawat.github.io/_site/assets/pdfs/article_JCGS_style.pdf}
+    [On estimating the structure factor of a point process, with applications to hyperuniformity ]({{ site.url }}/assets/pdfs/article_JCGS_style.pdf)
 
 * # Hyperunifomity
 
