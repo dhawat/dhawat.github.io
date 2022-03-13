@@ -5,4 +5,4 @@ classes: wide
 author_profile: true
 title: "cv"
 ---
-My resume can be found (in French) here \ref{/Users/dhawat/github/dhawat.github.io/_site/assets/pdfs/cv.pdf}
+My resume can be found (in French) [here]({{ site.url }}/assets/pdfs/cv.pdf).

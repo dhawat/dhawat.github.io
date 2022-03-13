@@ -1,9 +1,9 @@
 ---
 permalink: "/publications/"
 layout: single
-# classes: wide
+classes: wide
 author_profile: true
-title: ""
+title: "Publications"
 toc: true
 toc_label: "Publications"
 toc_sticky: true
