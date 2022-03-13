@@ -15,7 +15,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "d
 
 # Site Settings
 locale: "en-US"
-title: "Home"
+title: "Homepage"
 title_separator: "-"
 subtitle: "" # site tagline that appears below site title in masthead
 name: "Diala Hawat"
