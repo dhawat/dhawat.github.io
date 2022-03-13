@@ -13,6 +13,10 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
 <center> <h1>News </h1> </center>
 
+* # CV
+
+  My resume can be found (in French) [here]({{ site.url }}/assets/pdfs/cv.pdf)
+
 * # Paper draft
 
     [On estimating the structure factor of a point process, with applications to hyperuniformity ]({{ site.url }}/assets/pdfs/draft_paper.pdf)
