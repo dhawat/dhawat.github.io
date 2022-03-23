@@ -8,7 +8,11 @@ toc: true
 toc_label: "Publications"
 toc_sticky: true
 ---
-
+{% if site.author.academic_profiles.google-scholar %}
+  <a href="{{ site.author.academic_profiles.google-scholar }}">
+    <i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar
+  </a>
+{% endif %}
 
 * # Preprint
 
