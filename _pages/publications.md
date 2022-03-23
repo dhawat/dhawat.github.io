@@ -33,7 +33,10 @@ toc_sticky: true
 {% capture counter_preprints %}{% bibliography_count --query @unpublished %}{% endcapture %}
 {% if counter_preprints != "0" %}
 
-* # Preprint
+## Preprints
+
+  {% bibliography --query @unpublished %}
+{% endif %}
 
   <!-- [On estimating the structure factor of a point process, with applications to hyperuniformity ]({{ site.url }}/assets/pdfs/draft_paper.pdf) -->
 
