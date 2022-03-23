@@ -2,6 +2,8 @@
 layout: home
 author_profile: true
 classes: wide
+toc: true
+toc_sticky: true
 ---
 <center> <h1>About </h1> </center>
 
@@ -19,7 +21,7 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
   * Hyperunifomity
   * Gravitational allocation
 
-* ## programming language
+* ## Programming language
 
   * Python
 
