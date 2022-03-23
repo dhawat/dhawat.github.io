@@ -21,9 +21,9 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
 * ## Research
 
-    * Point processes
-    * Hyperunifomity
-    * Gravitational allocation
+  * Point processes
+  * Hyperunifomity
+  * Gravitational allocation
 
 * ## programming language
 
