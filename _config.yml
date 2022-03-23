@@ -115,7 +115,7 @@ author:
     acmdl:
     ads:
     africarxiv:
-    arxiv: "https://arxiv.org/a/<orcid-id | arxiv-id>"
+    arxiv: "https://arxiv.org/a/<0000-0003-1165-3747>"
     biorxiv:
     ceur:
     ciencia-vitae:
@@ -153,7 +153,7 @@ author:
     open-materials:
     obp:
     openedition:
-    orcid: "https://orcid.org/<orcid-id>"
+    orcid: "https://orcid.org/<0000-0003-1165-3747>"
     osf:
     overleaf:
     philpapers:
