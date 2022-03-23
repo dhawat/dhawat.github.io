@@ -13,6 +13,11 @@ toc_sticky: true
     <i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar
   </a>
 {% endif %}
+{% if site.author.academic_profiles.orcid %}
+  <a href="{{ site.author.academic_profiles.orcid }}">
+    <i class="ai ai-orcid" aria-hidden="true"></i>Orcid
+  </a>
+{% endif %}
 {% if site.author.academic_profiles.hal %}
   <a href="{{ site.author.academic_profiles.hal }}">
     <i class="ai ai-hal" aria-hidden="true"></i>HAL
