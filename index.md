@@ -11,13 +11,7 @@ I'm also [winner](https://briques2math.home.blog/2021/10/26/diala-mariem-et-mehd
 I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) during 2019/2020 for my master 2
 "Mathématiques et Applications" of the University Paris.
 
-<center> <h1>CV </h1> </center>
-
-* My resume can be found (in French) [here]({{ site.url }}/assets/pdfs/cv.pdf).
-
-<center> <h1>News </h1> </center>
-
-* # Interests
+<center> <h1>Interests </h1> </center>
 
 * ## Research
 
@@ -28,6 +22,12 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 * ## programming language
 
   * Python
+
+<center> <h1>CV </h1> </center>
+
+* My resume can be found (in French) [here]({{ site.url }}/assets/pdfs/cv.pdf).
+
+<center> <h1>News </h1> </center>
 
 * # Paper draft
 
