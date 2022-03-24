@@ -37,13 +37,3 @@ toc_sticky: true
 
   {% bibliography --query @unpublished %}
 {% endif %}
-
-* # Journal papers
-
-* # Conference papers
-
-* # Presentations and Posters
-
-  * **Presentations**
-
-  * **Posters**
