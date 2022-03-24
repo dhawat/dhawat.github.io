@@ -19,7 +19,7 @@ title: "Homepage"
 title_separator: "-"
 subtitle: "" # site tagline that appears below site title in masthead
 name: "Diala Hawat"
-description: "Description"
+description: "PhD student"
 github: [metadata]
 url: "https://dhawat.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -99,7 +99,7 @@ analytics:
 author:
   name: "Diala Hawat"
   avatar: "/assets/images/bio.jpg"
-  bio: "PhD student."
+  bio: "PhD student"
   location: "Villeneuve-d'Ascq, France"
   email: "dialahawat7@gmail.com"
   github: "dhawat"
