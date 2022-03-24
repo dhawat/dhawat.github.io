@@ -5,7 +5,7 @@ main:
   - title: "CV"
     #url:"/cv/"
     url: "/assets/pdfs/cv.pdf"
-  - title: "Publications"
+  - title: "Publication"
     url: "/publications/"
   - title: "Code"
     url: "/code/"
