@@ -29,13 +29,13 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
 <center> <h1>News </h1> </center>
 
-* # Preprints
+* # Preprint
 
     [On estimating the structure factor of a point process, with applications to hyperuniformity ]({{ site.url }}/assets/pdfs/draft_paper.pdf)
 
-* # Hyperunifomity
+* # Python Package
 
-    1- **Python Package** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor):
+    **Hyperuniformity** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor):
 
     [![CI-tests](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml/badge.svg)](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml)
     [![codecov](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor/branch/main/graph/badge.svg?token=FUDADJLO2W)](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor)
