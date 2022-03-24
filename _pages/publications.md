@@ -29,7 +29,14 @@ toc_sticky: true
   </a>
 {% endif %}
 
-* # Preprints
+<!-- Preprints -->
+{% capture counter_preprints %}{% bibliography_count --query @unpublished %}{% endcapture %}
+{% if counter_preprints != "0" %}
+
+## Preprints
+
+  {% bibliography --query @unpublished %}
+{% endif %}
 
 * # Journal papers
 
@@ -39,4 +46,4 @@ toc_sticky: true
 
   * **Presentations**
 
-  * **Pasters**
+  * **Posters**
