@@ -1,13 +1,15 @@
 ---
 permalink: "/publications/"
 layout: single
-#classes: wide
+# classes: wide
 author_profile: true
-title: "Publications"
+title: ""
 toc: true
 toc_label: "Publications"
 toc_sticky: true
 ---
+
+<!-- Go to _config.yml file and fill the corresponding fields author.academic_profiles.xxxx-->
 {% if site.author.academic_profiles.google-scholar %}
   <a href="{{ site.author.academic_profiles.google-scholar }}">
     <i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar
@@ -29,6 +31,10 @@ toc_sticky: true
   </a>
 {% endif %}
 
+<!-- See also https://github.com/inukshuk/jekyll-scholar to customize your references -->
+
+This is a mock example: the references are not correct!
+
 <!-- Preprints -->
 {% capture counter_preprints %}{% bibliography_count --query @unpublished %}{% endcapture %}
 {% if counter_preprints != "0" %}
@@ -38,7 +44,7 @@ toc_sticky: true
   {% bibliography --query @unpublished %}
 {% endif %}
 
-<!-- Books-->
+<!-- Journal articles-->
 {% capture counter_book %}{% bibliography_count --query @book %}{% endcapture %}
 {% if counter_book != "0" %}
 
@@ -77,3 +83,17 @@ toc_sticky: true
 <!-- Thesis -->
 {% capture counter_thesis %}{% bibliography_count --query @thesis %}{% endcapture %}
 {% if counter_thesis != "0" %}
+
+## Thesis
+
+  {% bibliography --query @thesis %}
+{% endif %}
+
+<!-- Popularization -->
+{% capture counter_popularization %}{% bibliography_count --query @misc[keywords=popularization] %}{% endcapture %}
+{% if counter_popularization != "0" %}
+
+## Popularization
+
+  {% bibliography --query @misc[keywords=popularization] %}
+{% endif %}
