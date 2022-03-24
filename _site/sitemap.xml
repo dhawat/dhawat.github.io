@@ -27,4 +27,16 @@
 <loc>http://localhost:4000/assets/pdfs/draft_paper.pdf</loc>
 <lastmod>2022-03-04T11:54:51+01:00</lastmod>
 </url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/poster.pdf</loc>
+<lastmod>2021-10-18T15:31:30+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/presentation_germany.pdf</loc>
+<lastmod>2022-03-02T09:56:15+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/presentation_physics.pdf</loc>
+<lastmod>2022-02-22T17:54:39+01:00</lastmod>
+</url>
 </urlset>

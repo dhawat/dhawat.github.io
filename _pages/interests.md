@@ -9,6 +9,7 @@ title: "Interests"
 
   * Point processes
   * Hyperunifomity
+  * Numerical integration
   * Gravitational allocation
 
 * ## Programming language
