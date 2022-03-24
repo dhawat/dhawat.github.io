@@ -8,7 +8,7 @@ title: "Interests"
 * ## Research
 
   * Point processes
-  * Hyperunifomity
+  * Hyperuniformity
   * Numerical integration
   * Gravitational allocation
 

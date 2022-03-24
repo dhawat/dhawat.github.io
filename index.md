@@ -17,7 +17,7 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
 * ## Research
 
-  * Point processes, hyperunifomity, numerical integration, gravitational allocation.
+  * Point processes, hyperuniformity, numerical integration, gravitational allocation.
 
 * ## Programming language
 
