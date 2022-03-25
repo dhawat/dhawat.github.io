@@ -95,3 +95,17 @@ toc_sticky: true
 
   {% bibliography --query @misc[keywords=popularization] %}
 {% endif %}
+
+<!--  presentations and posters -->
+
+## Presentations and Posters
+
+  5- [Seminary: MAP5 Probability Seminary, March 25th, 2022, Paris, France](https://map5.mi.parisdescartes.fr/presentation/thematiques-scientifiques/probabilites/): [Presentation]({{ site.url }}/assets/pdfs/presentation_MAP5.pdf)
+
+  4- [Workshop: New trends in point process theory, February 28th-March 2nd, 2022, Karlsruhe, Germany](https://www.math.kit.edu/stoch/event/ppt2022/en): [Presentation]({{ site.url }}/assets/pdfs/presentation_germany.pdf)
+
+  3- [Conference: Stochastic Geometry Days, November 15th-19th, 2021, Dunkerque, France](https://www.mathconf.org/sgd2021): [Poster]({{ site.url }}/assets/pdfs/poster.pdf)
+
+  2- [Conference: End-to-End Bayesian learning, October 25-29th 2021, CIRM, Marseille, France](https://bayesatcirm.github.io/): [Poster]({{ site.url }}/assets/pdfs/poster.pdf)
+
+  1- [Visio-Conference: PhD to PhD, June 1st–3rd, 2021, Beirut, Lebanon](https://www.aub.edu.lb/cams/Pages/PhD_to_PhD.aspx): [Presentation]({{ site.url }}/assets/pdfs/presentation_phd_to_phd.pdf)
