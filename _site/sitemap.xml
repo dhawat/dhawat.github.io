@@ -32,6 +32,10 @@
 <lastmod>2021-10-18T15:31:30+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/assets/pdfs/presentation_M2.pdf</loc>
+<lastmod>2020-11-18T21:36:20+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/pdfs/presentation_MAP5.pdf</loc>
 <lastmod>2022-03-25T09:10:36+01:00</lastmod>
 </url>
@@ -46,5 +50,9 @@
 <url>
 <loc>http://localhost:4000/assets/pdfs/presentation_physics.pdf</loc>
 <lastmod>2022-02-22T17:54:39+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdfs/report_M2.pdf</loc>
+<lastmod>2020-08-30T20:48:39+02:00</lastmod>
 </url>
 </urlset>
