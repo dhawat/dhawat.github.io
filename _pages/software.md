@@ -1,11 +1,11 @@
 ---
-permalink: "/code/"
+permalink: "/software/"
 layout: home
 classes: wide
 author_profile: true
-title: "Code"
+title: "Software"
 ---
-- **Python Package** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)
+1- **Python Package: 2022** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)
 
   [![CI-tests](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml/badge.svg)](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml)
   [![codecov](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor/branch/main/graph/badge.svg?token=FUDADJLO2W)](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor)
@@ -21,6 +21,6 @@ title: "Code"
 
   Approximate the structure factor of a stationary point process, test its effective hyperuniformity and identify its class of hyperuniformity.
 
-  - Open source available on [Github](https://github.com/For-a-few-DPPs-more/structure-factor).
-  - ([Documentation](https://for-a-few-dpps-more.github.io/structure-factor/))
-  - ([Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb))
+- Open source available on [Github](https://github.com/For-a-few-DPPs-more/structure-factor).
+- ([Documentation](https://for-a-few-dpps-more.github.io/structure-factor/))
+- ([Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb))

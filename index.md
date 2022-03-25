@@ -23,17 +23,13 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
   * Python
 
-<center> <h1>CV </h1> </center>
-
-* My resume can be found (in French) [here]({{ site.url }}/assets/pdfs/cv.pdf).
-
 <center> <h1>News </h1> </center>
 
-* # Preprint
+* # Preprint, 2022
 
     [On estimating the structure factor of a point process, with applications to hyperuniformity ]({{ site.url }}/assets/pdfs/draft_paper.pdf)
 
-* # Python Package
+* # Python Package, 2022
 
     **Hyperuniformity** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor):
 

@@ -2,14 +2,16 @@
 main:
   - title: "Interests"
     url: /interests/
-  - title: "CV"
-    #url:"/cv/"
-    url: "/assets/pdfs/cv.pdf"
-  - title: "Publication"
+    #url: "/assets/pdfs/cv.pdf"
+  - title: "Publications"
     url: "/publications/"
-  - title: "Code"
-    url: "/code/"
+  - title: "Software"
+    url: "/software/"
+  - title: "Presentations"
+    url: "/presentations/"
   - title: "Teaching"
     url: "/teaching/"
+  - title: "CV"
+    url: "/cv/"
     #url: "/Users/dhawat/github/dhawat.github.io/_pages/cv.md"
     #url: https://github.com/CRIStAL-Sigma/cristal-sigma.github.io/blob/master/README.md
