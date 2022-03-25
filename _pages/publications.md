@@ -108,7 +108,7 @@ toc_sticky: true
 
   4- Challenge: [Challenge Mathematics and Companies](https://challenge-maths.sciencesconf.org/), AMIES, August 30th-September 6th, 2021, Paris, France: [Presentation]({{ site.url }}/assets/pdfs/presentation_math_entreprise.pptx), [interview](https://briques2math.home.blog/2021/10/26/diala-mariem-et-mehdi-evaluation-automatique-de-la-qualite-de-donnees/)
 
-  3- Conference: [End-to-End Bayesian learning](https://bayesatcirm.github.io/), CIRM, October 25-29th, 2021, Marseille, France: [Poster]({{ site.url }}/assets/pdfs/poster.pdf)
+  3- Conference: [End-to-End Bayesian learning](https://bayesatcirm.github.io/), CIRM, October 25th-29th, 2021, Marseille, France: [Poster]({{ site.url }}/assets/pdfs/poster.pdf)
 
   2- Visio-Conference: [PhD to PhD](https://www.aub.edu.lb/cams/Pages/PhD_to_PhD.aspx), June 1st–3rd, 2021, Beirut, Lebanon: [Presentation]({{ site.url }}/assets/pdfs/presentation_phd_to_phd.pdf)
 
