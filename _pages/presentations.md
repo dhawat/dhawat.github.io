@@ -8,6 +8,8 @@ title: ""
 
 ## Presentations, Posters and Reports
 
+  8- Statistics and probability PhD day: [Paul Painlevé Laboratory](https://sites.google.com/view/journeedoctorantprobastats2022/accueil), May 19th, 2022, Lille, France: [Presentation]({{ site.url }}/assets/pdfs/presentation_peinleve.pdf)
+
   7- Seminary: [MAP5 Probability Seminary](https://map5.mi.parisdescartes.fr/presentation/thematiques-scientifiques/probabilites/), March 25th, 2022, Paris, France: [Presentation]({{ site.url }}/assets/pdfs/presentation_MAP5.pdf)
 
   6- Workshop: [New trends in point process theory](https://www.math.kit.edu/stoch/event/ppt2022/en), February 28th-March 2nd, 2022, Karlsruhe, Germany: [Presentation]({{ site.url }}/assets/pdfs/presentation_germany.pdf)
