@@ -8,6 +8,8 @@ title: ""
 
 ## Presentations, Posters and Reports
 
+  9- [GRETSI](http://gretsi.fr/colloque2022/): Palais des Congrès, September 06th, 2022, Nancy, France: [Poster]({{ site.url }}assets/pdfs/poster_GRETSI_2022.pdf)
+
   8- Statistics and probability PhD day: [Paul Painlevé Laboratory](https://sites.google.com/view/journeedoctorantprobastats2022/accueil), May 19th, 2022, Lille, France: [Presentation]({{ site.url }}/assets/pdfs/presentation_painleve.pdf)
 
   7- Seminary: [MAP5 Probability Seminary](https://map5.mi.parisdescartes.fr/presentation/thematiques-scientifiques/probabilites/), March 25th, 2022, Paris, France: [Presentation]({{ site.url }}/assets/pdfs/presentation_MAP5.pdf)
