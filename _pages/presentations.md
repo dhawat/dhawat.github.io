@@ -8,6 +8,8 @@ title: ""
 
 ## Presentations, Posters and Reports
 
+- Conference: [Computational methods for unifying multiple statistical analyses (Fusion)](https://conferences.cirm-math.fr/2635.html), October 24, 2022, CIRM Marseille, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/presentation_CIRM_2022.pdf)
+
 - Conference: [GRETSI](http://gretsi.fr/colloque2022/), September 06th, 2022, Nancy, France: [Poster]({{ site.url }}/assets/pdfs/poster_GRETSI_2022.pdf)
 
 - Statistics and probability PhD day: [Paul Painlevé Laboratory](https://sites.google.com/view/journeedoctorantprobastats2022/accueil), May 19th, 2022, Lille, France: [Presentation]({{ site.url }}/assets/pdfs/presentation_painleve.pdf)
