@@ -26,7 +26,7 @@ title: "Software"
   - [Documentation](https://for-a-few-dpps-more.github.io/structure-factor/)
   - [Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb)
 
-#
+---------------------------------------------
 
 - **Python project: 2021** [assess_data_quality](https://github.com/dhawat/assess_data_quality)
 
