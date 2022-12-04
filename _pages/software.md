@@ -5,7 +5,7 @@ classes: wide
 author_profile: true
 title: "Software"
 ---
-1- **Python Package: 2022** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)
+- **Python Package: 2022** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)
 
   [![CI-tests](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml/badge.svg)](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml)
   [![codecov](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor/branch/main/graph/badge.svg?token=FUDADJLO2W)](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor)
@@ -21,6 +21,12 @@ title: "Software"
 
   Approximate the structure factor of a stationary point process, test its effective hyperuniformity and identify its class of hyperuniformity.
 
-- Open source available on [Github](https://github.com/For-a-few-DPPs-more/structure-factor).
-- ([Documentation](https://for-a-few-dpps-more.github.io/structure-factor/))
-- ([Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb))
+  - Open source available on [Github](https://github.com/For-a-few-DPPs-more/structure-factor).
+  - ([Documentation](https://for-a-few-dpps-more.github.io/structure-factor/))
+  - ([Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb))
+
+- **Python project: 2021** [assess_data_quality](https://github.com/dhawat/assess_data_quality/)
+
+  Python plug-and-play algorithm for assessing data quality and finding bad data within a dataset. Project developed during the challenge Mathematics and Companies organized by AMIES, SFdS, SMF, and the SMAI for Ph.D. students in France.
+
+  - plug-and-play algorithm available on [Github](https://github.com/dhawat/assess_data_quality/)
