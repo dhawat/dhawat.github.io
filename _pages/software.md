@@ -16,7 +16,7 @@ title: "Software"
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./notebooks)
 
   <div align="middle" style="margin-top: 50px">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:450px;height:130px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:520px;height:160px;">
   </div>
 
   Python package for studying the hyperuniformity of a point process.
@@ -25,6 +25,8 @@ title: "Software"
   - Open source available on [Github](https://github.com/For-a-few-DPPs-more/structure-factor) and [PyPi](https://pypi.org/project/structure-factor/)
   - [Documentation](https://for-a-few-dpps-more.github.io/structure-factor/)
   - [Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb)
+
+#
 
 - **Python project: 2021** [assess_data_quality](https://github.com/dhawat/assess_data_quality)
 
