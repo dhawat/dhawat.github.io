@@ -19,13 +19,14 @@ title: "Software"
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:450px;height:130px;">
   </div>
 
-  Approximate the structure factor of a stationary point process, test its effective hyperuniformity and identify its class of hyperuniformity.
+  Python package for studying the hyperuniformity of a point process.
+  Approximate the structure factor, the pair correlation function, testing the effective hyperuniformity, testing the hyperuniformity, and identifying the hyperuniformity class of a stationary point process.
 
-  - Open source available on [Github](https://github.com/For-a-few-DPPs-more/structure-factor).
-  - ([Documentation](https://for-a-few-dpps-more.github.io/structure-factor/))
-  - ([Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb))
+  - Open source available on [Github](https://github.com/For-a-few-DPPs-more/structure-factor) and [PyPi](https://pypi.org/project/structure-factor/)
+  - [Documentation](https://for-a-few-dpps-more.github.io/structure-factor/)
+  - [Tutorial Jupyter Notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb)
 
-- **Python project: 2021** [assess_data_quality](https://github.com/dhawat/assess_data_quality/)
+- **Python project: 2021** [assess_data_quality](https://github.com/dhawat/assess_data_quality)
 
   Python plug-and-play algorithm for assessing data quality and finding bad data within a dataset. Project developed during the challenge Mathematics and Companies organized by AMIES, SFdS, SMF, and the SMAI for Ph.D. students in France.
 
