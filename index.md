@@ -10,8 +10,8 @@ toc_sticky: true
 * I am currently a Ph.D. student at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, France, and the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris, France.\
 I'm working on the subject: "stochastic methods for numerical integrations", under the supervision of [Rémi BARDENET](http://rbardenet.github.io/) and  [Raphael LACHIEZE-REY](https://helios2.mi.parisdescartes.fr/~rlachiez/).\
 I'm also [winner](https://briques2math.home.blog/2021/10/26/diala-mariem-et-mehdi-evaluation-automatique-de-la-qualite-de-donnees/) of the [challenge mathématiques et entreprise](https://challenge-maths.sciencesconf.org/), organized by [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html).
-We worked on improving data quality with the company [Foyer](https://www.foyer.lu/en/homepage) ([interview](https://youtu.be/3IV06PqZ85s?t=403)).\
-I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) laureate in 2019/2020 for a master 2 grant at the University of Paris.
+We worked remotely with the company [Foyer](https://www.foyer.lu/en/homepage) (Leudelange, Luxembourg), on assessing and improving data quality using machine learning methods ([interview](https://youtu.be/3IV06PqZ85s?t=403)).\
+I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) laureate in 2019/2020 for a master 2 grant at the University of Paris Cité, Paris, France.
 
 ------------------------------
 
