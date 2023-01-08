@@ -10,6 +10,8 @@ title: "Interests"
   * Point processes
   * Hyperuniformity
   * Numerical integration
+  * Simulation algorithms
+  * Computational statistics
   * Gravitational allocation
 
 * ## Programming language

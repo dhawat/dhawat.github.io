@@ -7,23 +7,11 @@ toc_sticky: true
 ---
 <center> <h1>About </h1> </center>
 
-* I am currently a PhD student at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, and at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris.\
+* I am currently a Ph.D. student at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, France, and the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris, France.\
 I'm working on the subject: "stochastic methods for numerical integrations", under the supervision of [Rémi BARDENET](http://rbardenet.github.io/) and  [Raphael LACHIEZE-REY](https://helios2.mi.parisdescartes.fr/~rlachiez/).\
-I'm also [winner](https://briques2math.home.blog/2021/10/26/diala-mariem-et-mehdi-evaluation-automatique-de-la-qualite-de-donnees/) of the [challenge mathématiques et entreprise](https://challenge-maths.sciencesconf.org/), organized by [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html). We worked for the company [Foyer](https://www.foyer.lu/en/homepage) our aim was to improve data quality ([interview](https://youtu.be/3IV06PqZ85s?t=403)).\
-I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) during 2019/2020 for my master 2
-"Mathématiques et Applications" of the University Paris.
-
----------------------------------
-
-<center> <h1>Interests </h1> </center>
-
-* ## Research
-
-  * Point processes, hyperuniformity, numerical integration, gravitational allocation.
-
-* ## Programming language
-
-  * Python
+I'm also [winner](https://briques2math.home.blog/2021/10/26/diala-mariem-et-mehdi-evaluation-automatique-de-la-qualite-de-donnees/) of the [challenge mathématiques et entreprise](https://challenge-maths.sciencesconf.org/), organized by [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html).
+We worked on improving data quality with the company [Foyer](https://www.foyer.lu/en/homepage) ([interview](https://youtu.be/3IV06PqZ85s?t=403)).\
+I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) laureate in 2019/2020 for a master 2 grant at the University of Paris.
 
 ------------------------------
 
@@ -35,7 +23,7 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
 
 * # Python Package, 2022
 
-    **Hyperuniformity** [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor):
+    **[structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)** :
 
     [![CI-tests](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml/badge.svg)](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml)
     [![codecov](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor/branch/main/graph/badge.svg?token=FUDADJLO2W)](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor)
@@ -45,17 +33,7 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
     [![Python >=3.7.1,<3.10](https://img.shields.io/badge/python->=3.7.1,<3.10-blue.svg)](https://www.python.org/downloads/release/python-371/)
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./notebooks)
 
-  Hyperuniformity is the study of stationary point processes with a sub-Poisson variance of the number of points in a large window. For the homogeneous Poisson point process, the variance of the number of points that fall in a large window is of the order of the window volume. In contrast, for hyperuniform (HU) point processes, the corresponding variance is much lower than the volume of that window, with a ratio going to zero.
-
-  In the context of amorphous structures, hyperuniformity
-  implies a hidden form of order, in which the system remains
-  macroscopically uniform, despite not being crystalline. The
-  concept of hyperuniformity sheds light on a variety of seemingly
-  unrelated fields, including density fluctuations in the early universe, biological tissue, statistical physics, colloidal
-  or granular packings, micro fluids, driven nonequilibrium
-  systems...
-
-  There are many candidate HU processes in the physics literature, but rigorously proving that a point process is HU is usually difficult. It is thus desirable to have standardized numerical tests of hyperuniformity. A common practice in statistical physics is to estimate a spectral measure called the structure factor, the behavior of which around zero is a sign of hyperuniformity.
+  An open-source Python package for studying the hyperuniformity of a spatial point process via the estimation of its structure factor.
 
   [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) contains:
 
@@ -65,7 +43,8 @@ I was [PGSM laureates](https://applications.sciencesmaths-paris.fr/fr/les-laurea
   * The classical effective hyperuniformity test
   * Hyperuniformity class test
 
-  Detailed [documentation]((https://for-a-few-dpps-more.github.io/structure-factor/)) of the package is published via the GitHub workflow file along with a tutorial [Jupyter notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb).
+  The [documentation]((https://for-a-few-dpps-more.github.io/structure-factor/)) of the package is published via the GitHub workflow file along with a tutorial [Jupyter notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb).
+  **Any feedback is most welcome!**
 
 <div align="middle" style="margin-top: 50px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:770px;height:200px;">
