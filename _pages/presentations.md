@@ -8,6 +8,8 @@ title: ""
 
 ## Presentations, Posters and Reports
 
+- Conference: [Hyperuniform structures, rigid point processes and related topics](https://www.mathconf.org/hsrpp2023), February 20th-22nd, 2023, Lille, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/presentation_hyperuniformity_workshop_2023.pdf)
+
 - Conference: [Computational methods for unifying multiple statistical analyses (Fusion)](https://conferences.cirm-math.fr/2635.html), October 24, 2022, CIRM Marseille, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/presentation_CIRM_2022.pdf)
 
 - Conference: [Lille Days in Point Processes and Stochastic Geometry](https://www.mathconf.org/jlppgs2022), October 17, 2022, Villeneuve d'Ascq, France: [Poster]({{ site.url }}/assets/pdfs/poster_GRETSI_2022.pdf)
