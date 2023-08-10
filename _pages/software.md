@@ -12,7 +12,7 @@ title: "Software"
   [![Python >=3.8,<3.10](https://img.shields.io/badge/python->=3.8,<3.10-blue.svg)](https://www.python.org/downloads/release/python-371/)
 
   <div align="middle" style="margin-top: 50px">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.png" alt="" style="width:520px;height:180px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.png" alt="" style="width:700px;height:230px;">
   </div>
 
   Python package for sampling Repelled point processes, estimating function integrals using various Monte Carlo methods (including a method with the repelled point process), and illustrating 2D gravitational allocation from the Lebesgue measure to a point process.
@@ -21,7 +21,7 @@ title: "Software"
   - [Tutorial Jupyter Notebooks](https://github.com/dhawat/MCRPPy/tree/main/notebooks)
 
   <div align="middle" style="margin-top: 50px">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gravitational_allocation_to_poisson.png" alt="" style="width:180px;height:180px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gravitational_allocation_to_poisson.png" alt="" style="width:240px;height:240px;">
   </div>
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title: "Software"
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./notebooks)
 
   <div align="middle" style="margin-top: 50px">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:520px;height:160px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:700px;height:220px;">
   </div>
 
   Python package for studying the hyperuniformity of a point process.
