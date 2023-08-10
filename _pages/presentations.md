@@ -8,7 +8,7 @@ title: ""
 
 ## Presentations, Posters and Reports
 
-- Conference: [29th Nordic Conference in Mathematical Statistics](https://nordstat2023.org/), June 2023, Gothenburg, Sweden: [presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/SNORDSTAT_Gothenburg_2023.pdf)
+- Conference: [29th Nordic Conference in Mathematical Statistics](https://nordstat2023.org/), June 2023, Gothenburg, Sweden: [presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/NORDSTAT_Gothenburg_2023.pdf)
 
 - Workshop: [French-Danish workshop on spatial statistics and image analysis in biology](https://ssiab15.dyndoc.fr/), March 2023, Grenoble, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/SSIAB_grenoble_2023.pdf)
 
