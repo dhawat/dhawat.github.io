@@ -47,7 +47,7 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
     **Any feedback is most welcome!**
 
 <div align="middle" style="margin-top: 50px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.pdf" alt="" style="width:770px;height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.png" alt="" style="width:770px;height:240px;">
 </div>
 
 <div align="middle" style="margin-top: 50px">
