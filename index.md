@@ -29,25 +29,25 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
     [![codecov](https://codecov.io/gh/dhawat/MCRPPy/branch/main/graph/badge.svg?token=CODECOV_TOKEN)](https://codecov.io/gh/dhawat/MCRPPy)
     [![Python >=3.8,<3.10](https://img.shields.io/badge/python->=3.8,<3.10-blue.svg)](https://www.python.org/downloads/release/python-371/)
 
-  An open-source Python package that currently includes:
+    An open-source Python package that currently includes:
 
-  * Methods for sampling from a variety of point processes, including the homogeneous Poisson, Thomas, Ginibre, scrambled Sobol, Binomial, and their repelled counterparts.
-  * Several Monte Carlo methods, including a Monte Carlo method with the repelled point process.
-  * Tools for visualizing the gravitational allocation from the Lebesgue measure to a point process within a two-dimensional space (d=2).
+      * Methods for sampling from a variety of point processes, including the homogeneous Poisson, Thomas, Ginibre, scrambled Sobol, Binomial, and their Repelled counterparts.
+      * Several Monte Carlo methods, including a Monte Carlo method with the Repelled point process.
+      * Tools for visualizing the gravitational allocation from the Lebesgue measure to a point process within a two-dimensional space (d=2).
 
-  We provide three tutorial Jupyter Notebooks.
+    We provide three tutorial Jupyter Notebooks.
 
-  * ``tutorial_sample_repelled_point_pattern.ipynb``: tutorial for sampling a Repelled point process.
-  * ``tutorial_monte_carlo_methods.ipynb``: tutorial for estimating function integrals using the available Monte Carlo methods.
-  * ``tutorial_gravitational_allocation.ipynb``: tutorial for illustrating a two-dimensional gravitational allocation from Lebesgue to a point process.
+      * ``tutorial_sample_repelled_point_pattern.ipynb``: tutorial for sampling a Repelled point process.
+      * ``tutorial_monte_carlo_methods.ipynb``: tutorial for estimating function integrals using the available Monte Carlo methods.
+      * ``tutorial_gravitational_allocation.ipynb``: tutorial for illustrating a two-dimensional gravitational allocation from Lebesgue to a point process.
 
-  We also provide two Jupyter Notebooks for replicating the study of the companion paper
-  [''Repelled point processes with application to numerical integration''](https://arxiv.org/abs/2308.04825).
+    We also provide two Jupyter Notebooks for replicating the study of the companion paper
+    [''Repelled point processes with application to numerical integration''](https://arxiv.org/abs/2308.04825).
 
-  * ``companion_paper.ipynb``: main notebook.
-  * ``structure_factor_and_pcf.ipynb``: supplementary notebook.
+      * ``companion_paper.ipynb``: main notebook.
+      * ``structure_factor_and_pcf.ipynb``: supplementary notebook.
 
-  **Any feedback is most welcome!**
+    **Any feedback is most welcome!**
 
 <div align="middle" style="margin-top: 50px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:770px;height:200px;">
