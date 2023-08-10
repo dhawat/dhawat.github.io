@@ -17,11 +17,11 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
 
 <center> <h1>News </h1> </center>
 
-* # Preprint, 2024
+* # Preprint: 2023
 
     [Repelled point processes with application to numerical integration](https://arxiv.org/abs/2308.04825)
 
-* # Python Package, 2023
+* # Python Package: 2023
 
     **[MCRPPy](https://github.com/dhawat/MCRPPy)** :
 
@@ -37,20 +37,17 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
 
     We provide three tutorial Jupyter Notebooks.
 
-      * ``tutorial_sample_repelled_point_pattern.ipynb``: tutorial for sampling a Repelled point process.
-      * ``tutorial_monte_carlo_methods.ipynb``: tutorial for estimating function integrals using the available Monte Carlo methods.
-      * ``tutorial_gravitational_allocation.ipynb``: tutorial for illustrating a two-dimensional gravitational allocation from Lebesgue to a point process.
+      * Tutorial for sampling a Repelled point process.
+      * Tutorial for estimating function integrals using the available Monte Carlo methods.
+      * Tutorial for illustrating a two-dimensional gravitational allocation from Lebesgue to a point process.
 
     We also provide two Jupyter Notebooks for replicating the study of the companion paper
     [''Repelled point processes with application to numerical integration''](https://arxiv.org/abs/2308.04825).
 
-      * ``companion_paper.ipynb``: main notebook.
-      * ``structure_factor_and_pcf.ipynb``: supplementary notebook.
-
     **Any feedback is most welcome!**
 
 <div align="middle" style="margin-top: 50px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/si_ginibre.png" alt="" style="width:770px;height:200px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.pdf" alt="" style="width:770px;height:200px;">
 </div>
 
 <div align="middle" style="margin-top: 50px">
