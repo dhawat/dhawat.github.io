@@ -8,6 +8,10 @@ title: ""
 
 ## Presentations, Posters and Reports
 
+- Conference: [29th Nordic Conference in Mathematical Statistics](https://nordstat2023.org/), June 2023, Gothenburg, Sweden: [presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/SNORDSTAT_Gothenburg_2023.pdf)
+
+- Workshop: [French-Danish workshop on spatial statistics and image analysis in biology](https://ssiab15.dyndoc.fr/), March 2023, Grenoble, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/SSIAB_grenoble_2023.pdf)
+
 - Conference: [German Probability and Statistics Days (GPSD 2023)](https://www.gpsd-2023.de/), March 2023, Essen, Germany: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/presentation_GPSD_2023.pdf)
 
 - Conference: [Hyperuniform structures, rigid point processes and related topics](https://www.mathconf.org/hsrpp2023), February 2023, Lille, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/presentation_hyperuniformity_workshop_2023.pdf)
