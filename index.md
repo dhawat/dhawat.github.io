@@ -17,33 +17,36 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
 
 <center> <h1>News </h1> </center>
 
-* # Preprint, 2022
+* # Preprint, 2024
 
-    [On estimating the structure factor of a point process, with applications to hyperuniformity ]({{ site.url }}/assets/pdfs/draft_paper.pdf)
+    [Repelled point processes with application to numerical integration](https://arxiv.org/abs/2308.04825)
 
-* # Python Package, 2022
+* # Python Package, 2023
 
-    **[structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor)** :
+    **[MCRPPy](https://github.com/dhawat/MCRPPy)** :
 
-    [![CI-tests](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml/badge.svg)](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/ci.yml)
-    [![codecov](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor/branch/main/graph/badge.svg?token=FUDADJLO2W)](https://codecov.io/gh/For-a-few-DPPs-more/structure-factor)
-    [![docs-build](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/docs.yml/badge.svg)](https://github.com/For-a-few-DPPs-more/structure-factor/actions/workflows/docs.yml)
-    [![docs-page](https://img.shields.io/badge/docs-latest-blue)](https://for-a-few-dpps-more.github.io/structure-factor/)
-    [![PyPi version](https://badgen.net/pypi/v/structure-factor/)](https://pypi.org/project/structure-factor/)
-    [![Python >=3.7.1,<3.10](https://img.shields.io/badge/python->=3.7.1,<3.10-blue.svg)](https://www.python.org/downloads/release/python-371/)
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./notebooks)
+    [![CI-tests](https://github.com/dhawat/MCRPPy/actions/workflows/ci.yml/badge.svg)](https://github.com/dhawat/MCRPPy/actions/workflows/ci.yml)
+    [![codecov](https://codecov.io/gh/dhawat/MCRPPy/branch/main/graph/badge.svg?token=CODECOV_TOKEN)](https://codecov.io/gh/dhawat/MCRPPy)
+    [![Python >=3.8,<3.10](https://img.shields.io/badge/python->=3.8,<3.10-blue.svg)](https://www.python.org/downloads/release/python-371/)
 
-  An open-source Python package for studying the hyperuniformity of a spatial point process via the estimation of its structure factor.
+  An open-source Python package that currently includes:
 
-  [structure_factor](https://github.com/For-a-few-DPPs-more/structure-factor) contains:
+  * Methods for sampling from a variety of point processes, including the homogeneous Poisson, Thomas, Ginibre, scrambled Sobol, Binomial, and their repelled counterparts.
+  * Several Monte Carlo methods, including a Monte Carlo method with the repelled point process.
+  * Tools for visualizing the gravitational allocation from the Lebesgue measure to a point process within a two-dimensional space (d=2).
 
-  * Methods for sampling form a homogeneous Poisson point process, Thomas point process, Ginibre ensemble ...
-  * Methods for approximating the pair correlation function and the structure factor of a stationary point process
-  * The first statistical test of hyperuniformity
-  * The classical effective hyperuniformity test
-  * Hyperuniformity class test
+  We provide three tutorial Jupyter Notebooks.
 
-  The [documentation]((https://for-a-few-dpps-more.github.io/structure-factor/)) of the package is published via the GitHub workflow file along with a tutorial [Jupyter notebook](https://github.com/For-a-few-DPPs-more/structure-factor/blob/main/notebooks/tutorial_structure_factor.ipynb).
+  * ``tutorial_sample_repelled_point_pattern.ipynb``: tutorial for sampling a Repelled point process.
+  * ``tutorial_monte_carlo_methods.ipynb``: tutorial for estimating function integrals using the available Monte Carlo methods.
+  * ``tutorial_gravitational_allocation.ipynb``: tutorial for illustrating a two-dimensional gravitational allocation from Lebesgue to a point process.
+
+  We also provide two Jupyter Notebooks for replicating the study of the companion paper
+  [''Repelled point processes with application to numerical integration''](https://arxiv.org/abs/2308.04825).
+
+  * ``companion_paper.ipynb``: main notebook.
+  * ``structure_factor_and_pcf.ipynb``: supplementary notebook.
+
   **Any feedback is most welcome!**
 
 <div align="middle" style="margin-top: 50px">
