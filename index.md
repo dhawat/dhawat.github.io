@@ -20,6 +20,7 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
 * # Blogpost: Nov 2023
 
     **`Coulomb rhymes with variance reduction… Well, it does rhyme if you read the title aloud with a French accent, hon hon hon.''**
+
     This marks the opening of a blog post authored by [Rémi Bardenet](https://rbardenet.github.io/).
     In the blog post, Rémi provides an engaging pedagogical summary of the main concept discussed in our recent preprint entitled ['Repelled Point Processes with Application to Numerical Integration'](https://arxiv.org/abs/2308.04825), which was co-authored by my Ph.D. supervisors, [Raphaêl Lachièze-Rey](https://helios2.mi.parisdescartes.fr/~rlachiez/) and [Rémi Bardenet](https://rbardenet.github.io/), along with myself. The complete blog post is available at [link] (<https://statisfaction-blog.github.io/posts/01-11-2023-repelled-point-processes/repelled_point_processes.html>).
     Enjoy the read!
