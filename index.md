@@ -17,7 +17,7 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
 
 <center> <h1>News </h1> </center>
 
-* # Blockpost: Nov 2023
+* # Blogpost: Nov 2023
 
     **`Coulomb rhymes with variance reduction… Well, it does rhyme if you read the title aloud with a French accent, hon hon hon.''**
     This marks the opening of a blog post authored by [Rémi Bardenet](https://rbardenet.github.io/).
