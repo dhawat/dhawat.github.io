@@ -4,20 +4,39 @@ author_profile: true
 classes: wide
 toc: true
 toc_sticky: true
----
-<center> <h1>About </h1> </center>
 
-* I am currently a Ph.D. student at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, France, and the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris, France.\
-I'm working on the subject: "stochastic methods for numerical integrations", under the supervision of [Rémi BARDENET](http://rbardenet.github.io/) and  [Raphael LACHIEZE-REY](https://helios2.mi.parisdescartes.fr/~rlachiez/).\
-I'm also [winner](https://briques2math.home.blog/2021/10/26/diala-mariem-et-mehdi-evaluation-automatique-de-la-qualite-de-donnees/) of the [challenge mathématiques et entreprise](https://challenge-maths.sciencesconf.org/), organized by [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html).
-We worked remotely with the company [Foyer](https://www.foyer.lu/en/homepage) (Leudelange, Luxembourg), on assessing and improving data quality using machine learning methods ([interview](https://youtu.be/3IV06PqZ85s?t=403)).\
-I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) laureate in 2019/2020 for a master 2 grant at the University of Paris Cité, Paris, France.
+---
+<center> <h1>About</h1> </center>
+
+* I currently work as a Postdoctoral Researcher at the [LPSM](https://www.lpsm.paris/) laboratory at [Sorbonne Université](https://www.sorbonne-universite.fr/) in Paris, France, collaborating with [Charlotte Dion-Blanc](https://sites.google.com/site/charlottedionblanc/), [Stéphane Robin](https://www.pantheonsorbonne.fr/page-perso/strobin), and [Emilie Lebarbier](https://www.parisnanterre.fr/mme-emilie-lebarbier). My focus is on change-point detection for the Hawkes process.
+* Previously, I pursued my Ph.D. at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory within the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, France, and also at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris, France. I successfully defended my thesis intitled  titled ["Point Processes for Numerical Integration"](https://www.theses.fr/s331068) on the 27th of November 2023.
+* In December 2023, my team secured first place in the “regulation” category at the [hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/) in Paris, France, focusing on improving the regulation of bikes at Vélib's stations.
+* Furthermore, in 2021, my team achieved victory in the [challenge mathématiques et entreprise](https://challenge-maths.sciencesconf.org/) organized by [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html). Our work revolved around enhancing data quality for [Foyer](https://www.foyer.lu/en/homepage), located in Leudelange, Luxembourg.
+* Additionally, I received the [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) excellence scholarship in 2019 for a Master 2 grant at Université Paris Cité, Paris, France.
 
 ------------------------------
 
 <center> <h1>News </h1> </center>
 
-* # Blogpost: Nov 2023
+------------------------------
+
+* # Project (Dec 2023): [Hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/)
+   
+  With Mariem Abaach, Mehdi Boussâa, [Raphaël Lachièze-Rey](https://helios2.mi.parisdescartes.fr/~rlachiez/), [Alexander Reisach](https://scriddie.github.io/), and myself, our project won the [Hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/) in the “regulation” category.
+  Our project focused on addressing bike station regulation using mathematical tools such as optimal transport and neural networks. 
+  We aim to contribute towards the mitigation of this issue within this service we hold dear, and we are optimistic that pushing our project further may play a role in alleviating these challenges.
+
+  <div align="left" style="margin-top: 50px">
+  <img src="assets/images/winner_picture.jpeg" align="bottom" style="width:470px;height:400px; margin-left: 150px; margin-right: 100px;">
+  <img src="assets/images/trophy_hackathon_2023.jpeg" align="bottom" style="width:470px;height:400px;">
+  </div> 
+  <!-- For more details, check the [Projects](Projects) section. -->
+
+
+* # Ph.D. defense (Nov 2023): 
+  I successfully defended my thesis intitled  titled ["Point Processes for Numerical Integration"](https://www.theses.fr/s331068) on the 27th of November 2023.
+
+* # Blogpost (Nov 2023): 
 
     **`Coulomb rhymes with variance reduction… Well, it does rhyme if you read the title aloud with a French accent, hon hon hon.''**
 
@@ -27,11 +46,11 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
 
     Enjoy the read!
 
-* # Preprint: 2023
+* # Preprint 2023: 
 
     [Repelled point processes with application to numerical integration](https://arxiv.org/abs/2308.04825)
 
-* # Python Package: 2023
+* # Python Package 2023:
 
     **[MCRPPy](https://github.com/dhawat/MCRPPy)** :
 
@@ -57,8 +76,10 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
     **Any feedback is most welcome!**
 
 <div align="middle" style="margin-top: 50px">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.png" alt="" style="width:770px;height:240px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.png" alt="" style="width:950px;height:340px;">
 </div>
+
+<!-- ----------------------------
 
 <div align="middle" style="margin-top: 50px">
 
@@ -70,4 +91,4 @@ I was a [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-pr
 
    <a href="https://u-paris.fr/en/"> <img class='logo' alt="logo_aparis" src="assets/images/logo_cnrs.png" align="bottom" style="width:170px;height:100px;"></a>
 
-</div>
+</div> -->

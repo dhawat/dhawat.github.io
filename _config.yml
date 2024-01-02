@@ -98,9 +98,9 @@ analytics:
 # _includes/author-profile-custom-links.html
 author:
   name: "Diala Hawat"
-  avatar: "/assets/images/bio.jpg"
-  bio: "PhD student"
-  location: "Villeneuve-d'Ascq, France"
+  avatar: "/assets/images/my_bio.jpeg"
+  bio: "Postdoctoral Researcher"
+  location: "France"
   email: "dialahawat7@gmail.com"
   github: "dhawat"
   webpage: "https://dhawat.github.io"
