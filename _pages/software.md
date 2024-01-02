@@ -12,7 +12,7 @@ title: "Software"
   [![Python >=3.8,<3.10](https://img.shields.io/badge/python->=3.8,<3.10-blue.svg)](https://www.python.org/downloads/release/python-371/)
 
   <div align="middle" style="margin-top: 50px">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.png" alt="" style="width:700px;height:230px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.png" alt="" style="width:950px;height:340px;">
   </div>
 
   Python package for sampling Repelled point processes, estimating function integrals using various Monte Carlo methods (including a method with the repelled point process), and illustrating 2D gravitational allocation from the Lebesgue measure to a point process.
@@ -20,8 +20,8 @@ title: "Software"
   - Open source available on [Github](https://github.com/dhawat/MCRPPy)
   - [Tutorial Jupyter Notebooks](https://github.com/dhawat/MCRPPy/tree/main/notebooks)
 
-  <div align="middle" style="margin-top: 50px">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gravitational_allocation_to_poisson.png" alt="" style="width:240px;height:240px;">
+  <div align="middle">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gravitational_allocation_to_poisson.jpeg" alt="" style="width:540px;height:540px;">
   </div>
 
 ------------------------------------------------------------------------------------------------------------------------
