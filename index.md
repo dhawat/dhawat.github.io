@@ -27,8 +27,8 @@ toc_sticky: true
   We aim to contribute towards the mitigation of this issue within this service we hold dear, and we are optimistic that pushing our project further may play a role in alleviating these challenges.
 
   <div align="left" style="margin-top: 50px">
-  <img src="assets/images/winner_picture.jpeg" align="bottom" style="width:470px;height:400px; margin-left: 150px; margin-right: 100px;">
-  <img src="assets/images/trophy_hackathon_2023.jpeg" align="bottom" style="width:470px;height:400px;">
+  <img src="assets/images/winner_picture.jpeg" align="bottom" style="width:330px;height:400px; margin-left: 150px; margin-right: 100px;">
+  <img src="assets/images/trophy_hackathon_2023.jpeg" align="bottom" style="width:330px;height:400px;">
   </div> 
   <!-- For more details, check the [Projects](Projects) section. -->
 
@@ -77,6 +77,7 @@ toc_sticky: true
 
 <div align="middle" style="margin-top: 50px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/poisson_and_repelled_and_force.png" alt="" style="width:950px;height:340px;">
+  <p>Figure: A sample from a Poisson point process (left) and the corresponding repelled point process (right). The force field driving the repulsion is represented in the middle.</p>
 </div>
 
 <!-- ----------------------------
