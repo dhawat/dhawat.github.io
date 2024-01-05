@@ -26,7 +26,7 @@ toc_sticky: true
   Our project focused on addressing bike station regulation using mathematical tools such as optimal transport and neural networks. 
   We aim to contribute towards the mitigation of this issue within this service we hold dear, and we are optimistic that pushing our project further may play a role in alleviating these challenges.
 
-  <div align="middle" style="margin-top: 50px">
+  <div align="left" style="margin-top: 50px">
   <img src="assets/images/winner_picture.jpeg" align="bottom" style="width:330px;height:400px;">
   <img src="assets/images/trophy_hackathon_2023.jpeg" align="bottom" style="width:330px;height:400px;">
   </div> 
