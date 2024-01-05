@@ -23,7 +23,9 @@ toc_sticky: true
 * # Project (Dec 2023): [Hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/)
    
   With Mariem Abaach, Mehdi Boussâa, [Raphaël Lachièze-Rey](https://helios2.mi.parisdescartes.fr/~rlachiez/), [Alexander Reisach](https://scriddie.github.io/), and myself, our project won the [Hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/) in the “regulation” category.
-  Our project focused on addressing bike station regulation using mathematical tools such as optimal transport and neural networks. 
+  Our project focuses on improving the nightly regulation conducted by Smovengo, addressing imbalances in the fill levels of bike stations caused by users' rides during the day. 
+  Following a data analysis, we identify a potential approach and mathematically reformulate the problem. 
+  We propose employing mathematical tools such as optimal transport and neural networks to numerically solve the issue.
   We aim to contribute towards the mitigation of this issue within this service we hold dear, and we are optimistic that pushing our project further may play a role in alleviating these challenges.
 
   <div align="left" style="margin-top: 50px">
