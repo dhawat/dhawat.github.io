@@ -9,6 +9,8 @@ title: ""
 ## Presentations, Posters and Reports
 ----
 
+- Seminary: [Parisian Statistics Seminary](https://sites.google.com/site/semstats/home), January 2024, Paris, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/paresien_seminary_of_statistics_2024.pdf)
+
 - Colloquium: [Colloquium of the MAP5](https://map5.mi.parisdescartes.fr/events/mariem-abaach-mehdi-boussaa-diala-hawat-alexander-reisach-map5-universite-paris-cite/), December 2023, Paris, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/colloq_hackathon_2023.pdf)
 
   
