@@ -9,11 +9,14 @@ title: ""
 ## Presentations, Posters and Reports
 ----
 
+- Company: [Research and Development EDF team](https://www.edf.fr/groupe-edf/inventer-l-avenir-de-l-energie/r-d-un-savoir-faire-mondial/5-ans-edf-lab-saclay/histoire-du-site-edf-lab-paris-saclay), January 2024, Saclay, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/EDF_2024.pdf)
+- 
+- Seminary: [Statistics seminars of the University of Edinburgh](https://www.maths.ed.ac.uk/school-of-mathematics/events/statistics), January 2024, University of Edinburgh, Edinbourg, Scotland: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/Edinburgh_2024.pdf)
+
 - Seminary: [Parisian Statistics Seminary](https://sites.google.com/site/semstats/home), January 2024, Paris, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/paresien_seminary_of_statistics_2024.pdf)
 
 - Colloquium: [Colloquium of the MAP5](https://map5.mi.parisdescartes.fr/events/mariem-abaach-mehdi-boussaa-diala-hawat-alexander-reisach-map5-universite-paris-cite/), December 2023, Paris, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/colloq_hackathon_2023.pdf)
 
-  
 - Competition: [Hackathon Vélib' métropole defense](https://blog.velib-metropole.fr/hackathon/), December 2023, Paris, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/hackathon_defense_2023.pdf), [picture]({{ site.url }}/assets/pdfs/../../../../assets/images/winner_picture.jpeg)
 
 - Defense: Ph.D. defense, November 2023, Villeneuve d'Ascq, France: [Presentation]({{ site.url }}/assets/pdfs/../../../../assets/pdfs/defense_2023.pdf)
