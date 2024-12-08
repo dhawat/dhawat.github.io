@@ -8,8 +8,8 @@ toc_sticky: true
 ---
 <center> <h1>About</h1> </center>
 
-* I currently work as a Postdoctoral Researcher at the [LPSM](https://www.lpsm.paris/) laboratory at [Sorbonne Université](https://www.sorbonne-universite.fr/) in Paris, France, collaborating with [Charlotte Dion-Blanc](https://sites.google.com/site/charlottedionblanc/), [Stéphane Robin](https://www.pantheonsorbonne.fr/page-perso/strobin), and [Emilie Lebarbier](https://www.parisnanterre.fr/mme-emilie-lebarbier). My focus is on change-point detection for the Hawkes process.
-* Previously, I pursued my Ph.D. at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory within the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, France, and also at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris, France. I successfully defended my thesis intitled  titled ["Point Processes for Numerical Integration"](https://www.theses.fr/s331068) on the 27th of November 2023.
+* I currently work as a research engineer at the French electricity company ([EDF](https://www.edfenergy.com/)).
+* Previously, I pursued a Ph.D. in applied mathematics at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory within the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, France, and also at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris, France. I successfully defended my thesis intitled  titled ["Point Processes for Numerical Integration"](https://www.theses.fr/s331068) on the 27th of November 2023.
 * In December 2023, my team secured first place in the “regulation” category at the [hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/) in Paris, France, focusing on improving the regulation of bikes at Vélib's stations.
 * Furthermore, in 2021, my team achieved victory in the [challenge mathématiques et entreprise](https://challenge-maths.sciencesconf.org/) organized by [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html). Our work revolved around enhancing data quality for [Foyer](https://www.foyer.lu/en/homepage), located in Leudelange, Luxembourg.
 * Additionally, I received the [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) excellence scholarship in 2019 for a Master 2 grant at Université Paris Cité, Paris, France.
@@ -34,6 +34,9 @@ toc_sticky: true
   </div> 
   <!-- For more details, check the [Projects](Projects) section. -->
 
+* # Preprint 2024: 
+
+    [Multiple change-point detection for some point processes](https://arxiv.org/abs/2302.09103)
 
 * # Ph.D. defense (Nov 2023): 
   I successfully defended my thesis intitled  titled ["Point Processes for Numerical Integration"](https://www.theses.fr/s331068) on the 27th of November 2023.
