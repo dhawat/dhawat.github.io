@@ -11,11 +11,16 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Install Ruby and update RubyGems
-        run: |
-          sudo apt-get install -y ruby-full
-          gem update --system
-          
+      # Set up Ruby with ruby/setup-ruby
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0 # Specify your desired Ruby version
+
+      # Update RubyGems to the latest version
+      - name: Update RubyGems
+        run: gem update --system
+
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v2
         with:
@@ -23,6 +28,7 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+
       # Standard usage
       - uses: helaili/jekyll-action@v2
         with:
