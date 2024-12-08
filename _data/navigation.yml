@@ -11,7 +11,5 @@ main:
     url: "/presentations/"
   - title: "Teaching"
     url: "/teaching/"
-  - title: "CV"
-    url: "/cv/"
     #url: "/Users/dhawat/github/dhawat.github.io/_pages/cv.md"
     #url: https://github.com/CRIStAL-Sigma/cristal-sigma.github.io/blob/master/README.md

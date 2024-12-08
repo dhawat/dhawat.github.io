@@ -20,6 +20,10 @@ toc_sticky: true
 
 ------------------------------
 
+* # Preprint 2024: 
+
+  [Multiple change-point detection for some point processes](https://arxiv.org/abs/2302.09103)
+
 * # Project (Dec 2023): [Hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/)
    
   With Mariem Abaach, Mehdi Boussâa, [Raphaël Lachièze-Rey](https://helios2.mi.parisdescartes.fr/~rlachiez/), [Alexander Reisach](https://scriddie.github.io/), and myself, our project won the [Hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/) in the “regulation” category.
@@ -33,10 +37,6 @@ toc_sticky: true
   <img src="assets/images/trophy_hackathon_2023.jpeg" align="bottom" style="width:330px;height:400px;">
   </div> 
   <!-- For more details, check the [Projects](Projects) section. -->
-
-* # Preprint 2024: 
-
-    [Multiple change-point detection for some point processes](https://arxiv.org/abs/2302.09103)
 
 * # Ph.D. defense (Nov 2023): 
   I successfully defended my thesis intitled  titled ["Point Processes for Numerical Integration"](https://www.theses.fr/s331068) on the 27th of November 2023.
