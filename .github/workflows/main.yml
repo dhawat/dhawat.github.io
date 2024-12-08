@@ -11,6 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Install Ruby and update RubyGems
+        run: |
+          sudo apt-get install -y ruby-full
+          gem update --system
+          
       # Use GitHub Actions' cache to shorten build times and decrease load on servers
       - uses: actions/cache@v2
         with:
