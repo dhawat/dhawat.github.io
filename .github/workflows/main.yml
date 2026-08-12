@@ -22,7 +22,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0 # Specify your desired Ruby version
+          ruby-version: "3.3" # quoted to avoid YAML parsing as a float; bibtex-ruby breaks on Ruby 3.4+
 
       # Install dependencies
       - name: Install dependencies
