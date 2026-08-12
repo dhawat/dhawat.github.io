@@ -14,6 +14,10 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
+# jekyll-scholar pins bibtex-ruby to ~> 4.0, and 4.4.7 (the latest 4.x)
+# crashes on every current Ruby - see vendor/gems/bibtex-ruby-4.4.7/NOTICE.md.
+gem "bibtex-ruby", "4.4.7", path: "vendor/gems/bibtex-ruby-4.4.7"
+
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
