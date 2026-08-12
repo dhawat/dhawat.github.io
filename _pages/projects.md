@@ -9,6 +9,17 @@ toc_label: "Projects"
 toc_sticky: true
 ---
 
+<center> <h1>Tabular foundation models & NILM, EDF R&D (2024-present)</h1> </center>
+
+At EDF R&D, I work on **tabular foundation models** (TabICL, TabPFN, TabPFN-TS) for the energy sector, designing dedicated feature engineering for usage detection and consumption signal reconstruction.
+I also train, deploy and improve Transformer-based Deep Learning models for **NILM** (Non-Intrusive Load Monitoring), i.e. load curve disaggregation, and supervise internships on NILM, active learning and representation learning for time series (Mantis, Chronos, TimesURL).
+
+
+<center> <h1>Vélib' Métropole redistribution, [Smovengo](https://www.smovengo.fr/) (2023-2024) </h1> </center>
+
+Following our win at the Hackathon Vélib' Métropole, I implemented the proposed method in production to optimize the morning redistribution of bikes across Vélib' stations, combining optimal transport with a Deep Learning (MLP) model to arbitrate between distribution cost and bike availability.
+
+
 <center> <h1>Hackathon: [Vélib' métropole](https://blog.velib-metropole.fr/hackathon/) 2023 </h1> </center>
 
 

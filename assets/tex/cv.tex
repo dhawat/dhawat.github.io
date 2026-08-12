@@ -1,0 +1,196 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{classic}
+\moderncvcolor{green}
+%github symbol
+\usepackage{fontawesome}
+%\usepackage{fontawesome5}
+%hyperling
+%\usepackage{hyperref}
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\usepackage[scale=0.85]{geometry} % Reduce document margins
+%multiple column
+\usepackage{multicol}
+\usepackage{xspace}
+\newcommand{\MATLAB}{\textsc{Matlab}\xspace}
+\newcommand{\PYTHON}{\texttt{Python}}
+\newcommand{\R}{\texttt{R}}
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{\href{https://dhawat.github.io}{Diala}} % Your first name
+\familyname{HAWAT} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{
+\large {Chercheuse en IA et mathématiques appliquées, spécialisée dans les modèles de fondation et le Deep Learning pour les données énergétiques. Chez EDF, je développe des solutions basées sur les modèles de fondation et les Transformers pour les données tabulaires et séries temporelles.}}
+%\homepage{dhawat.github.io} {dhawat.github.io}
+%\github{fndkfd}
+
+\extrainfo{
+\faHome \, \href{https://dhawat.github.io}{dhawat.github.io}
+\\
+\faGithub \, \href{https://github.com/dhawat}{github.com/dhawat}
+\\}
+\email{dialahawat7@gmail.com}
+\photo[42pt][2pt]{mypic.jpg}
+
+% Custom title block: two independent top-aligned columns.
+% Left column: name, then the subtitle paragraph directly underneath.
+% Right column: photo, then the contact details directly underneath.
+% (The default moderncv classic style bottom-aligns name/photo/extrainfo as
+% a single row, which drifts out of sync once the title text grows.)
+\newlength{\dhNameAscent}
+\newlength{\dhPhotoAscent}
+\newsavebox{\dhPhotoBox}
+\makeatletter
+\renewcommand*{\makecvtitle}{%
+  \recomputecvlengths
+  \sbox{\dhPhotoBox}{\color{color1}\setlength{\fboxrule}{\@photoframewidth}\fbox{\includegraphics[width=\@photowidth]{\@photo}}}%
+  \settoheight{\dhNameAscent}{\namestyle{\@firstname\ \@familyname}}%
+  \settoheight{\dhPhotoAscent}{\usebox{\dhPhotoBox}}%
+  \begin{minipage}[t]{0.68\textwidth}%
+    \namestyle{\@firstname\ \@familyname}\\[0.73cm]%
+    \titlestyle{\@title}%
+  \end{minipage}\hfill%
+  \begin{minipage}[t]{0.28\textwidth}%
+    \raggedleft\raisebox{\dhNameAscent-\dhPhotoAscent+6pt}{\usebox{\dhPhotoBox}}\\[0.6em]%
+    \addressfont\color{color2}\@extrainfo%
+    \faEnvelope\ \href{mailto:\@email}{\@email}%
+  \end{minipage}%
+  \par\vspace{1em}%
+}
+\makeatother
+
+%----------------------------------------------------------------------------------------
+\newcommand{\Csharp}{%
+  {\settoheight{\dimen0}{C}C\kern-.05em \resizebox{!}{\dimen0}{\raisebox{\depth}{\textbf{\#}}}}}
+\begin{document}
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+% Research inerest
+%----------------------------------------------------------------------------------------
+% \section{Research interests}
+% \cvitem{Keywords}{{Point processes, hyperuniformity, Monte Carlo methods, simulation algorithms, computational statistics, gravitational allocations.}}
+\vspace{-0.3cm}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\section{ \faFolderOpen \hspace{0.2cm} Expérience}
+\cventry{2026--présent}{Formatrice}{\href{https://www.edf.fr/}{EDF R\&D et Université Aix-Marseille}}{Formations et ateliers en data science et Deep Learning, du modèle linéaire aux modèles de fondation tabulaires}{(Palaiseau, Marseille)}{
+\textbf{Formation et ateliers des data scientists EDF :} cours et TP sur les autoencodeurs, les Transformers, le transfer learning, l'in-context learning et les modèles de fondation tabulaires.\\
+\textbf{Université Aix-Marseille :} cours de data science, des modèles linéaires et arbres de décision jusqu'aux modèles de fondation tabulaires.
+}
+\cventry{2024--présent}{Ingénieure Chercheuse}{\href{https://www.edf.fr/}{EDF R\&D}}{Modèles de fondation tabulaires et Deep Learning pour les séries temporelles et données tabulaires du secteur de l'énergie}{(Palaiseau, France)}{
+\textbf{Modèles de fondation tabulaires :} conception d'un feature engineering dédié à l'application de modèles de fondation tabulaires pour la détection d'usages et la reconstruction de signaux de consommation.
+\\
+\textbf{Deep Learning \& NILM :} entraînement, mise en service et amélioration de modèles Deep Learning basés sur les Transformers pour la désagrégation de courbe de charge (NILM -- Non-Intrusive Load Monitoring).
+\\
+\textbf{Recherche \& encadrement :} encadrement de stages sur les modèles NILM, l'active learning et le representation learning pour séries temporelles, en lien avec les modèles de fondation tabulaires (Mantis, TabICL, TabPFN, Chronos, TimesURL).
+\\
+\textbf{Conception de solutions de recherche appliquée} : sélection du paradigme de modélisation adapté à la problématique métier et aux données, des modèles statistiques et de gradient boosting (GAM, LightGBM) aux modèles de Deep Learning sur mesure et aux modèles de fondation.
+\\
+\textbf{Pilotage de projets :} élaboration des feuilles de routes avec les chefs de projet pour la constructuion du programme; échanges avec les commanditaires et mise en place de solutions adaptées à leurs problématiques métier.
+\\
+\textbf{Outils :} \PYTHON, PyTorch, Transformers, Hugging Face.
+}
+\cventry{2023--2024}{Chercheuse}{\href{https://www.smovengo.fr/}{Smovengo}}{Mise en place de la solution d'optimisation proposée lors du Hackathon Vélib' Métropole}{(Paris, France)}{
+\textbf{Projet :} suite au prix du Hackathon Vélib' Métropole, mission de mise en œuvre de la méthode proposée pour optimiser la répartition matinale des vélos dans les stations Vélib' afin de maximiser la satisfaction des usagers et réduire les coûts de la régulation des vélos le soir.
+\\
+\textbf{Méthode :} approche combinant transport optimal et modèle de Deep Learning (MLP) pour optimiser l'arbitrage entre coût de distribution des vélos et nombre de vélos disponibles dans les stations.
+\\
+\textbf{Outils :} Transport optimal, réseaux de neurones (MLP), \texttt{PyTorch}, \PYTHON.
+}
+\cventry{2023--2024}{Chercheuse Postdoctorale}{\href{https://www.lpsm.paris/}{laboratoire LPSM}}{Sorbonne Université, (Paris, France)}{Probabilité et statistiques : Détection des points de rupture dans le processus de Hawkes}{}
+
+\cventry{2020--2021 \\ 120h}{Enseignante}{Université Paris Cité}{Paris, France}{TP et TD de probabilités et statistiques}{L1, L2, L3 Mathématiques et informatique.}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+\section{\faCertificate \hspace{0.2cm} Prix}
+\cventry{Décembre 2023}{Prix du «~Hackathon Vélib' Métropole~» pour data scientists et chercheurs}{}{\href{https://autolibmetropole.fr/}{SAVM}, \href{https://www.smovengo.fr/}{Smovengo}, Vélib' Métropole}{(France). \href{https://www.youtube.com/watch?v=rufJQcR9SE8}{\faFileVideoO \hspace*{0.1cm}  Soutenance}
+  \href{https://www.linkedin.com/feed/update/urn:li:activity:7137916744064483328/}{\faLinkedinSquare  \hspace*{0.1cm} Smovengo}
+  \href{https://dhawat.github.io/assets/pdfs/defense_2023.pdf}{\faSlideshare  \hspace*{0.1cm} Diapositives}}{
+  \textbf{Projet :} Développement d'outils algorithmiques visant à optimiser la répartition matinale des vélos dans les stations Vélib' afin de maximiser la satisfaction des usagers et réduire les coûts de la régulation des vélos le soir, en utilisant le transport optimal et des réseaux de neurones (MLP).
+  \\
+  \textbf{Outils :} Transport optimal, réseaux de neurones (MLP), \texttt{PyTorch}, \PYTHON.
+  }
+
+\cventry{Septembre 2021}
+  {Prix du challenge «~\href{https://challenge-maths.sciencesconf.org/resource/page/id/1}{Mathématiques et Entreprises}~» pour doctorants en mathématiques appliquées}{}{\href{https://applications.sciencesmaths-paris.fr/fr/laureats-par-annee-57.htm}{AMIES}, \href{https://www.foyer.lu/en}{Foyer}}{(France et Luxembourg), \href{https://briques2math.home.blog/2021/10/26/diala-mariem-et-mehdi-evaluation-automatique-de-la-qualite-de-donnees/}{\faFileVideoO \hspace*{0.1cm} Entretien}
+  \href{https://github.com/dhawat/assess_data_quality/}{\faGithub \hspace*{0.1cm} Code}
+  \href{https://dhawat.github.io/presentations/}{\faSlideshare  \hspace*{0.1cm} Diapositives}}
+  {
+  \textbf{Projet :} algorithme Plug-and-Play détectant les anomalies dans une table de données afin d'en améliorer la qualité.
+  \\
+  \textbf{Outils :} Apprentissage automatique, apprentissage non supervisé, data clustering, \texttt{scikit-learn}, \PYTHON.
+  }
+\cventry{2018--2020}{Lauréate de deux bourses d'excellence}{\href{https://www.habibfoundation.org/}{AAHF}}{\href{https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850}{PGSM} et \href{https://sciencesmaths-paris.fr/en/?view=article\&id=324\#:~:text=TAL\%2C\%20FRANCE-,HAWAT\%20DIALA\%2C\%20LIBAN,-MAHZOUN\%20MOHAMMAD\%2C\%20IRAN}{FSMP}}{(Liban et France)}{}
+%----------------------------------------------------------------------------------------
+%	Formation
+%----------------------------------------------------------------------------------------
+\section{ \faGraduationCap \hspace{0.2cm} Formation}
+\cventry{2020--2023}{Doctorat}{Mathématiques appliquées --- méthodes de Monte-Carlo, processus stochastiques, statistiques spatiales et intégration numérique, \href{https://edmadis.univ-lille.fr/en/}{école doctorale MADIS-631}, Université de Lille}{supervisé par Rémi Bardenet (Médaille de bronze CNRS, laboratoire CRIStAL, Lille) et Raphaël Lachièze-Rey (laboratoire MAP5, Paris)}{\href{https://hal.science/tel-04347406/file/main.pdf}{\faBook \hspace{0.1cm} Manuscrit}}{
+Mention rapport de soutenance "Excellente Chercheuse" --
+Qualifiée MCF (CNU section 26).
+}
+
+%----------------------------------------------------------------------------------------
+%	Publication
+%----------------------------------------------------------------------------------------
+\section{ \faLeanpub \hspace{0.2cm} Publications, Présentations et Logiciels}
+   %
+  \cvitem{Publications}{5 publications disponibles sur \href{https://scholar.google.com/citations?user=-XK_mlAAAAAJ&hl=en&oi=ao}{Google Scholar}, dont 2 articles publiés dans des revues reconnues (\textit{Scandinavian Journal of Statistics} et \textit{Statistics and Computing}) et 1 article de conférence (GRETSI).}
+  %
+  \cvitem{Présentations}{20 présentations et posters lors de conférences, colloques et séminaires (liste disponible sur mon \href{https://dhawat.github.io/}{site web}), dont 8 en tant qu'oratrice invitée (\textit{invited speaker}).}
+  %
+  \cvitem{Logiciels}{2 bibliothèques \PYTHON{} publiées sur GitHub et PyPI : \href{https://github.com/dhawat/MCRPPy}{MCRPPy} et \href{https://github.com/For-a-few-DPPs-more/structure-factor}{structure-factor}.}
+  
+%-------------------------------------------
+%------------------------------------------
+%competance informatiques
+%----------------------------------------------------------------------------------------
+%\vspace{-0.3cm}
+\section{\faLaptop \hspace{0.02cm} Compétences informatiques} % (fold)
+  \cvitem{Deep Learning}{Modèles de fondation tabulaires (TabICL, TabPFN, TabPFN-TS), Transformers pour séries temporelles (PatchTST), modèles MLP (RealMLP, TSMixer, TabM), apprentissage de représentations pour séries temporelles (Mantis, TimesURL), PyTorch, Hugging Face.}
+
+  \cvitem{ML}{LightGBM, XGBoost, CatBoost, Random Forest, GAM.}
+
+  \cvitem{Statistiques}{Méthodes de Monte-Carlo, processus ponctuels, statistiques spatiales, intégration numérique, hyperuniformité.}
+
+  \cvitem{Développement}{\PYTHON, Git, GitHub, MLflow, Hydra, uv, Poetry, Sphinx, PyTest.}
+
+  \cvitem{Données}{SQL, Oracle, Hive, DBeaver, SQLAlchemy.}
+%----------------------------------------------------------------------------------------
+%autre
+%----------------------------
+%----------------------------
+\section*{ \faPlus  \hspace{0.2cm} Autres}
+\cvitem{Bénévolat}{Secouriste (diplôme PSE2) à la Croix-Rouge française.}
+\cvitem{Sport}{Natation, vélos, hiking.}
+\cvitem{Nationalité}{Française, Libanaise, Uruguayenne.}
+\cvitem{Langue}{Français, Anglais, Arabe.}
+
+%----------------------------------------------------------------------------------------
+%----------------------------------------------------------------------------------------
+%	language
+%----------------------------------------------------------------------------------------
+% \begin{multicols}{2}
+  % \section{\faLaptop \hspace{0.02cm} Compétences informatiques}
+  %   \cvitem{Programmation}{{Python, MATLAB, R, {Git, \href{https://github.com/dhawat}{Github}}, Poetry.}}
+  %   \cvitem{Documents}{{\LaTeX, Sphinx, Microsoft Office.}}
+  %   %\cvitem{Gestion}{}
+  %   % \section{\faLanguage \hspace{0.1cm}Langues}
+  %   % \cvitem{Arabe}{{langue natales.}}
+  %   % \cvitem{Français, Anglais}{{excellent, langue de travail.}}
+  %   % %\cvitem{Englais}{{excellent, langue principal de travail.}}
+  %   \end{multicols}
+
+\end{document}

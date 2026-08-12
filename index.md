@@ -8,8 +8,10 @@ toc_sticky: true
 ---
 <center> <h1>About</h1> </center>
 
-* I currently work as a research engineer at the French electricity company ([EDF](https://www.edfenergy.com/)).
+* I currently work as a Research Engineer at [EDF R&D](https://www.edf.fr/), where I develop solutions based on **tabular foundation models**, Transformers for tabular and time series energy data and on **Deep Learning for NILM** (Non-Intrusive Load Monitoring), including training. My work focuses on feature engineering **tabular foundation models**, appliance detection and consumption signal reconstruction and load curve disaggregation. I also supervise internships on NILM, active learning and representation learning for time series and tabular foundation models.
+* Since 2026, I have also been a trainer (Formatrice) at EDF R&D data and Aix-Marseille Université, teaching data science from linear models and decision trees to tabular foundation models, autoencoders, Transformers, transfer learning and in-context learning.
 * Previously, I pursued a Ph.D. in applied mathematics at the [CRIStAL](https://www.cristal.univ-lille.fr/) laboratory within the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille, France, and also at the [MAP5](https://map5.mi.parisdescartes.fr/) laboratory in the probability team in Paris, France. I successfully defended my thesis intitled  titled ["Point Processes for Numerical Integration"](https://www.theses.fr/s331068) on the 27th of November 2023.
+* In 2023-2024, I was a postdoctoral researcher at the [LPSM](https://www.lpsm.paris/) laboratory, Sorbonne Université, working on change-point detection in Hawkes processes, and a researcher at [Smovengo](https://www.smovengo.fr/) implementing an optimal transport and Deep Learning solution to optimize the morning redistribution of Vélib' bikes.
 * In December 2023, my team secured first place in the “regulation” category at the [hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/) in Paris, France, focusing on improving the regulation of bikes at Vélib's stations.
 * Furthermore, in 2021, my team achieved victory in the [challenge mathématiques et entreprise](https://challenge-maths.sciencesconf.org/) organized by [AMIES](https://www.agence-maths-entreprises.fr/public/pages/index.html). Our work revolved around enhancing data quality for [Foyer](https://www.foyer.lu/en/homepage), located in Leudelange, Luxembourg.
 * Additionally, I received the [PGSM](https://applications.sciencesmaths-paris.fr/fr/les-laureats-du-programme-pgsm-master-850.htm#:~:text=France-,HAWAT,-Diala) excellence scholarship in 2019 for a Master 2 grant at Université Paris Cité, Paris, France.
@@ -20,9 +22,9 @@ toc_sticky: true
 
 ------------------------------
 
-* # Preprint 2024: 
+* # Research Engineer at EDF R&D (2024-present):
 
-  [Multiple change-point detection for some point processes](https://arxiv.org/abs/2302.09103)
+  I joined [EDF R&D](https://www.edf.fr/) as a Research Engineer, working on **tabular foundation models** and Deep Learning for tabular for time series and tabular energy data. 
 
 * # Project (Dec 2023): [Hackathon Vélib' métropole](https://blog.velib-metropole.fr/hackathon/)
    
@@ -50,10 +52,6 @@ toc_sticky: true
     The complete blog post is available at [link] (<https://statisfaction-blog.github.io/posts/01-11-2023-repelled-point-processes/repelled_point_processes.html>).
 
     Enjoy the read!
-
-* # Preprint 2023: 
-
-    [Repelled point processes with application to numerical integration](https://arxiv.org/abs/2308.04825)
 
 * # Python Package 2023:
 
