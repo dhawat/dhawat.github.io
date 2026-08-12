@@ -22,7 +22,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3" # quoted to avoid YAML parsing as a float; bibtex-ruby breaks on Ruby 3.4+
+          ruby-version: "3.2" # bibtex-ruby (jekyll-scholar dep) raises ArgumentError on Ruby >= 3.3; bundler 4.x needs >= 3.2
 
       # Install dependencies
       - name: Install dependencies
