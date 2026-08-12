@@ -8,8 +8,10 @@ title: "Teaching"
 
 ## 2026/present
 
-  1. Formations and workshops for EDF R&D data scientists: autoencoders, Transformers, transfer learning, in-context learning and tabular foundation models.
-  2. Data science course, Aix-Marseille Université: from linear models and decision trees to tabular foundation models.
+Trainer (Formatrice), [EDF R&D](https://www.edf.fr/) and Université Aix-Marseille (Palaiseau, Marseille): Training courses and workshops in data science and Deep Learning, from linear models to tabular foundation models.
+
+  1. **EDF data scientists training and workshops:** courses and hands-on sessions on autoencoders, Transformers, transfer learning, in-context learning and tabular foundation models.
+  2. **Université Aix-Marseille:** data science course, from linear models and decision trees to tabular foundation models.
 
 --------------------------------
 
